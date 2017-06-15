@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">VanGun</string>
+    //สีต่างๆ
+
+
+    //ตัวเเปรต่างๆ
+    <string name="title_activity_menu">menu</string>
+    <string name="title_activity_register">register</string>
+    <string name="title_activity_data">data</string>
+    <string name="title_activity_catvan1">catvan1</string>
+    <string name="title_activity_register1">register1</string>
+    <string name="login_error_message">Username or Password is incorrect.</string>
+    <string name="register_error_message">Register failed, Try again!</string>
+    <string name="register_password_error">Password does not match</string>
+    <string name="register_success">Register Successful</string>
+    <string name="title_activity_login">login</string>
+    //data
+    <string name="van1">กรุงเทพฯ-นครปฐม-สุพรรณบุรี-อ่างทอง-สิงห์บุรี-นครสวรรค-์พิจิตร-ลพบุรี-สมุทรสาคร-สมุทรสงคราม</string>
+    <string name="van2">กรุงเทพฯ-ฉะเชิงเทรา-ชลบุรี-ระยอง-จันทบุรี</string>
+    <string name="van3">กรุงเทพฯ-ราชบุรี-กาญจนบุรี-เพชรบุรี-ประจวบคีรีขันธ์</string>
+    <string name="van4">กรุงเทพฯ – พระนครศรีอยุธยา -สุพรรณบุรี –นครปฐม-สมุทรสงคราม</string>
+    <string name="van5">กรุงเทพฯ – ชลบุรี</string>
+    <string name="van6">กรุงเทพฯ – ราชบุรี – กาญจนบุรี – เพชรบุรี-ประจวบคีรีขันธ์</string>
+    <string name="van7">กรุงเทพฯ-ฉะเชิงเทรา-ชลบุรี-ระยอง-จันทบุรี-ตราด-สระแก้ว</string>
+    <string name="van8">กรุงเทพฯ -ชัยนาท-สุพรรณบุรี-อ่างทอง-สิงห์บุรี-นครสวรรค- ์ ลพบุรี-พระนครศรีอยธยา ุ -นครนายก-สระบุรี</string>
+    <string name="van9">กรุงเทพฯ -ฉะเชิงเทรา-ชลบุรี-ระยอง-จันทบุรี-ตราด-ปราจีน-สระแก้ว</string>
+    <string name="van10">กรุงเทพฯ -ราชบุรี-กาญจนบุรี-เพชรบุรี-ประจวบคีรีขันธ์</string>
+    <string name="van11">กรุงเทพฯ-นครราชสีมา</string>
+    <string name="van12">กรุงเทพฯ -นครปฐม-พระนครศรีอยุธยา-สุพรรณบุรี-สระบุรี-ลพบุรี-นครนายก</string>
+    <string name="van13">กรุงเทพฯ -นครราชสีมา</string>
+    <string name="van14">กรุงเทพฯ -ชลบุรี-ระยอง-ปราจีนบุรี-สระแก้ว</string>
+    //Time
+    <string name="TimeVan1">06.00</string>
+    <string name="TimeVan2">07.00</string>
+    <string name="TimeVan3">08.00</string>
+    <string name="TimeVan4">09.00</string>
+    <string name="TimeVan5">10.00</string>
+    <string name="TimeVan6">11.00</string>
+    <string name="TimeVan7">12.00</string>
+    <string name="TimeVan8">13.00</string>
+    <string name="TimeVan9">14.00</string>
+    <string name="TimeVan10">15.00</string>
+    <string name="TimeVan11">16.00</string>
+    //TimeData
+    <string name="DataTime">ต้องมาก่อนเวลาที่กำหนดในระบบที่จองก่อน 30 นาที ถ้ามาไม่ถึงตามที่กำหนดไว้จะเลื่อนคิวให้คนต่อไปหรือออกรถตามเวลาที่กำหมดไว้</string>
+
+
+</resources>

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\pro\\VanGun\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\register3.png",
+        "source": "D:\\pro\\VanGun\\app\\src\\main\\res\\mipmap-xxhdpi\\register3.png"
+    },
+    {
+        "merged": "D:\\pro\\VanGun\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\register4.png",
+        "source": "D:\\pro\\VanGun\\app\\src\\main\\res\\mipmap-xxhdpi\\register4.png"
+    },
+    {
+        "merged": "D:\\pro\\VanGun\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "D:\\pro\\VanGun\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\pro\\VanGun\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\register2.png",
+        "source": "D:\\pro\\VanGun\\app\\src\\main\\res\\mipmap-xxhdpi\\register2.png"
+    }
+]

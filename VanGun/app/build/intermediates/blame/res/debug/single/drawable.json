@@ -1,0 +1,326 @@
+[
+    {
+        "merged": "D:\\pro\\VanGun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pho1.png",
+        "source": "D:\\pro\\VanGun\\app\\src\\main\\res\\drawable\\pho1.png"
+    },
+    {
+        "merged": "D:\\pro\\VanGun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pho10.png",
+        "source": "D:\\pro\\VanGun\\app\\src\\main\\res\\drawable\\pho10.png"
+    },
+    {
+        "merged": "D:\\pro\\VanGun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\re3.png",
+        "source": "D:\\pro\\VanGun\\app\\src\\main\\res\\drawable\\re3.png"
+    },
+    {
+        "merged": "D:\\pro\\VanGun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_normal.xml",
+        "source": "D:\\pro\\VanGun\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.2.1\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "D:\\pro\\VanGun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pho7.png",
+        "source": "D:\\pro\\VanGun\\app\\src\\main\\res\\drawable\\pho7.png"
+    },
+    {
+        "merged": "D:\\pro\\VanGun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\09c6480821e9f3c34836e08ba0f1fb68dbd20e7f\\output\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "D:\\pro\\VanGun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\09c6480821e9f3c34836e08ba0f1fb68dbd20e7f\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\pro\\VanGun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\09c6480821e9f3c34836e08ba0f1fb68dbd20e7f\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\pro\\VanGun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logink.png",
+        "source": "D:\\pro\\VanGun\\app\\src\\main\\res\\drawable\\logink.png"
+    },
+    {
+        "merged": "D:\\pro\\VanGun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\09c6480821e9f3c34836e08ba0f1fb68dbd20e7f\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\pro\\VanGun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\09c6480821e9f3c34836e08ba0f1fb68dbd20e7f\\output\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "D:\\pro\\VanGun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main1.png",
+        "source": "D:\\pro\\VanGun\\app\\src\\main\\res\\drawable\\main1.png"
+    },
+    {
+        "merged": "D:\\pro\\VanGun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\09c6480821e9f3c34836e08ba0f1fb68dbd20e7f\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\pro\\VanGun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\up2.png",
+        "source": "D:\\pro\\VanGun\\app\\src\\main\\res\\drawable\\up2.png"
+    },
+    {
+        "merged": "D:\\pro\\VanGun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\re2.png",
+        "source": "D:\\pro\\VanGun\\app\\src\\main\\res\\drawable\\re2.png"
+    },
+    {
+        "merged": "D:\\pro\\VanGun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ntitled.jpg",
+        "source": "D:\\pro\\VanGun\\app\\src\\main\\res\\drawable\\ntitled.jpg"
+    },
+    {
+        "merged": "D:\\pro\\VanGun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\09c6480821e9f3c34836e08ba0f1fb68dbd20e7f\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "D:\\pro\\VanGun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\09c6480821e9f3c34836e08ba0f1fb68dbd20e7f\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\pro\\VanGun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\8b5b4bba94c28e00c3086f9936079be834de1b6e\\output\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "D:\\pro\\VanGun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\login2.png",
+        "source": "D:\\pro\\VanGun\\app\\src\\main\\res\\drawable\\login2.png"
+    },
+    {
+        "merged": "D:\\pro\\VanGun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_focused.xml",
+        "source": "D:\\pro\\VanGun\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.2.1\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "D:\\pro\\VanGun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pho11.png",
+        "source": "D:\\pro\\VanGun\\app\\src\\main\\res\\drawable\\pho11.png"
+    },
+    {
+        "merged": "D:\\pro\\VanGun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_focused.xml",
+        "source": "D:\\pro\\VanGun\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.2.1\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "D:\\pro\\VanGun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\admin.png",
+        "source": "D:\\pro\\VanGun\\app\\src\\main\\res\\drawable\\admin.png"
+    },
+    {
+        "merged": "D:\\pro\\VanGun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\re4.png",
+        "source": "D:\\pro\\VanGun\\app\\src\\main\\res\\drawable\\re4.png"
+    },
+    {
+        "merged": "D:\\pro\\VanGun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\09c6480821e9f3c34836e08ba0f1fb68dbd20e7f\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\pro\\VanGun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\re1.png",
+        "source": "D:\\pro\\VanGun\\app\\src\\main\\res\\drawable\\re1.png"
+    },
+    {
+        "merged": "D:\\pro\\VanGun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pho12.png",
+        "source": "D:\\pro\\VanGun\\app\\src\\main\\res\\drawable\\pho12.png"
+    },
+    {
+        "merged": "D:\\pro\\VanGun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\8b5b4bba94c28e00c3086f9936079be834de1b6e\\output\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "D:\\pro\\VanGun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pho6.png",
+        "source": "D:\\pro\\VanGun\\app\\src\\main\\res\\drawable\\pho6.png"
+    },
+    {
+        "merged": "D:\\pro\\VanGun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
+        "source": "D:\\pro\\VanGun\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.2.1\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "D:\\pro\\VanGun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_light.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\8b5b4bba94c28e00c3086f9936079be834de1b6e\\output\\res\\drawable\\common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\pro\\VanGun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\8b5b4bba94c28e00c3086f9936079be834de1b6e\\output\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "D:\\pro\\VanGun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pho9.png",
+        "source": "D:\\pro\\VanGun\\app\\src\\main\\res\\drawable\\pho9.png"
+    },
+    {
+        "merged": "D:\\pro\\VanGun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abcdef.png",
+        "source": "D:\\pro\\VanGun\\app\\src\\main\\res\\drawable\\abcdef.png"
+    },
+    {
+        "merged": "D:\\pro\\VanGun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_normal.xml",
+        "source": "D:\\pro\\VanGun\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.2.1\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "D:\\pro\\VanGun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\09c6480821e9f3c34836e08ba0f1fb68dbd20e7f\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\pro\\VanGun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\up4.png",
+        "source": "D:\\pro\\VanGun\\app\\src\\main\\res\\drawable\\up4.png"
+    },
+    {
+        "merged": "D:\\pro\\VanGun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\09c6480821e9f3c34836e08ba0f1fb68dbd20e7f\\output\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "D:\\pro\\VanGun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main3.png",
+        "source": "D:\\pro\\VanGun\\app\\src\\main\\res\\drawable\\main3.png"
+    },
+    {
+        "merged": "D:\\pro\\VanGun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\09c6480821e9f3c34836e08ba0f1fb68dbd20e7f\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\pro\\VanGun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\09c6480821e9f3c34836e08ba0f1fb68dbd20e7f\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\pro\\VanGun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pho4.png",
+        "source": "D:\\pro\\VanGun\\app\\src\\main\\res\\drawable\\pho4.png"
+    },
+    {
+        "merged": "D:\\pro\\VanGun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pho13.png",
+        "source": "D:\\pro\\VanGun\\app\\src\\main\\res\\drawable\\pho13.png"
+    },
+    {
+        "merged": "D:\\pro\\VanGun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\09c6480821e9f3c34836e08ba0f1fb68dbd20e7f\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "D:\\pro\\VanGun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\09c6480821e9f3c34836e08ba0f1fb68dbd20e7f\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\pro\\VanGun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\09c6480821e9f3c34836e08ba0f1fb68dbd20e7f\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\pro\\VanGun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\09c6480821e9f3c34836e08ba0f1fb68dbd20e7f\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\pro\\VanGun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\09c6480821e9f3c34836e08ba0f1fb68dbd20e7f\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\pro\\VanGun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\8b5b4bba94c28e00c3086f9936079be834de1b6e\\output\\res\\drawable\\common_plus_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "D:\\pro\\VanGun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_disabled.xml",
+        "source": "D:\\pro\\VanGun\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.2.1\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "D:\\pro\\VanGun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pho3.png",
+        "source": "D:\\pro\\VanGun\\app\\src\\main\\res\\drawable\\pho3.png"
+    },
+    {
+        "merged": "D:\\pro\\VanGun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_normal.xml",
+        "source": "D:\\pro\\VanGun\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.2.1\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "D:\\pro\\VanGun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\09c6480821e9f3c34836e08ba0f1fb68dbd20e7f\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\pro\\VanGun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\admin2.png",
+        "source": "D:\\pro\\VanGun\\app\\src\\main\\res\\drawable\\admin2.png"
+    },
+    {
+        "merged": "D:\\pro\\VanGun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\09c6480821e9f3c34836e08ba0f1fb68dbd20e7f\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\pro\\VanGun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\3a1b6042553dcac7369d0dcefbff0f8098da0df8\\output\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "D:\\pro\\VanGun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pho14.png",
+        "source": "D:\\pro\\VanGun\\app\\src\\main\\res\\drawable\\pho14.png"
+    },
+    {
+        "merged": "D:\\pro\\VanGun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_new.9.png",
+        "source": "D:\\pro\\VanGun\\app\\src\\main\\res\\drawable\\bg_new.9.png"
+    },
+    {
+        "merged": "D:\\pro\\VanGun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\van1.png",
+        "source": "D:\\pro\\VanGun\\app\\src\\main\\res\\drawable\\van1.png"
+    },
+    {
+        "merged": "D:\\pro\\VanGun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\manu1.png",
+        "source": "D:\\pro\\VanGun\\app\\src\\main\\res\\drawable\\manu1.png"
+    },
+    {
+        "merged": "D:\\pro\\VanGun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_normal.xml",
+        "source": "D:\\pro\\VanGun\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.2.1\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "D:\\pro\\VanGun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\up3.png",
+        "source": "D:\\pro\\VanGun\\app\\src\\main\\res\\drawable\\up3.png"
+    },
+    {
+        "merged": "D:\\pro\\VanGun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\09c6480821e9f3c34836e08ba0f1fb68dbd20e7f\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\pro\\VanGun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\09c6480821e9f3c34836e08ba0f1fb68dbd20e7f\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\pro\\VanGun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pho8.png",
+        "source": "D:\\pro\\VanGun\\app\\src\\main\\res\\drawable\\pho8.png"
+    },
+    {
+        "merged": "D:\\pro\\VanGun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abcd.png",
+        "source": "D:\\pro\\VanGun\\app\\src\\main\\res\\drawable\\abcd.png"
+    },
+    {
+        "merged": "D:\\pro\\VanGun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pass1.png",
+        "source": "D:\\pro\\VanGun\\app\\src\\main\\res\\drawable\\pass1.png"
+    },
+    {
+        "merged": "D:\\pro\\VanGun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main2.png",
+        "source": "D:\\pro\\VanGun\\app\\src\\main\\res\\drawable\\main2.png"
+    },
+    {
+        "merged": "D:\\pro\\VanGun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\09c6480821e9f3c34836e08ba0f1fb68dbd20e7f\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "D:\\pro\\VanGun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\09c6480821e9f3c34836e08ba0f1fb68dbd20e7f\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\pro\\VanGun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\09c6480821e9f3c34836e08ba0f1fb68dbd20e7f\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "D:\\pro\\VanGun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_focused.xml",
+        "source": "D:\\pro\\VanGun\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.2.1\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "D:\\pro\\VanGun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\8b5b4bba94c28e00c3086f9936079be834de1b6e\\output\\res\\drawable\\common_plus_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "D:\\pro\\VanGun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\8b5b4bba94c28e00c3086f9936079be834de1b6e\\output\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\pro\\VanGun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pho5.png",
+        "source": "D:\\pro\\VanGun\\app\\src\\main\\res\\drawable\\pho5.png"
+    },
+    {
+        "merged": "D:\\pro\\VanGun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_disabled.xml",
+        "source": "D:\\pro\\VanGun\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.2.1\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "D:\\pro\\VanGun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\8b5b4bba94c28e00c3086f9936079be834de1b6e\\output\\res\\drawable\\common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "D:\\pro\\VanGun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\3a1b6042553dcac7369d0dcefbff0f8098da0df8\\output\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "D:\\pro\\VanGun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pho2.png",
+        "source": "D:\\pro\\VanGun\\app\\src\\main\\res\\drawable\\pho2.png"
+    },
+    {
+        "merged": "D:\\pro\\VanGun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\09c6480821e9f3c34836e08ba0f1fb68dbd20e7f\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    }
+]

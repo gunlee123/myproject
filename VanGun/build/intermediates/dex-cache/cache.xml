@@ -1,0 +1,977 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\c9f14806e3f0a99ba532f2f878ee2dc2ef4dbe43\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="D:\pro\VanGun\app\build\intermediates\pre-dexed\debug\classes_bae744b15b3907b31ce8717196213a4e0faaeece.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\07849c2064f89d0d6aeee26ce214556c6a45e097\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ef5c5c2afbd174d55cf1cfcac7d0346cbc4c1322">
+        <dex dex="D:\pro\VanGun\app\build\intermediates\pre-dexed\debug\classes_12e6dcc0dcd710e7f75caf4890ab48bc2d03c74e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\3392677ca21ec2a6a01789efddd6f0121b020c82\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e467a973b749c6390a5991c9a8edbde96fc10c9">
+        <dex dex="D:\pro\VanGun\app\build\intermediates\pre-dexed\debug\classes_0c2a1bb316b3589e7f9be4b9892d36cb4d5c29e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\083fbfdf3198cf11e9673ec81f8da9d811aae11e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="D:\pro\VanGun\app\build\intermediates\pre-dexed\debug\classes_24bd605e86da5e345fbfc802c640617470ddd31c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.2.2\d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b\jackson-core-2.2.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b">
+        <dex dex="D:\pro\VanGun\app\build\intermediates\pre-dexed\debug\jackson-core-2.2.2_9b034db73581278168c216b1e24693bb00a6600f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\com.firebase\firebase-client-jvm\2.3.1\4d53b7d6983247af02b8fe7e4228fff555a5e828\firebase-client-jvm-2.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4d53b7d6983247af02b8fe7e4228fff555a5e828">
+        <dex dex="D:\pro\VanGun\app\build\intermediates\pre-dexed\debug\firebase-client-jvm-2.3.1_9099cb678e2da8cbea9400ebd9cc9ba499629ce5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\fedb77e32311499f9a92314565e63d4290128523\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ef8ab5fee042023018249474bc93bd4b2b9c17e">
+        <dex dex="D:\pro\VanGun\app\build\intermediates\pre-dexed\debug\classes_17134d871fe35c98669669cb41699203b3d6baf8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\09c6480821e9f3c34836e08ba0f1fb68dbd20e7f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="D:\pro\VanGun\app\build\intermediates\pre-dexed\debug\classes_d1d2938fb3b5c1f4eab743dbba3b5a14a736d7dc.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-alpha7\constraint-layout-solver-1.0.0-alpha7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="439eeb5ffd54cbd18db0a6aea471e8356f19fc36">
+        <dex dex="D:\pro\VanGun\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.0-alpha7_4def727076bec169802298fb194ea742eee3d86f\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="D:\pro\VanGun\app\build\intermediates\pre-dexed\debug\javax.inject-1_ed056cf491007105d54d8d8bd5fe559657696c95.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\3007cf67e5385dd48029d30b28b89a76be5712af\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="D:\pro\VanGun\app\build\intermediates\pre-dexed\debug\classes_96ee79586cc011d8ec37c33ad74f265037e9c651.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\3a1b6042553dcac7369d0dcefbff0f8098da0df8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="D:\pro\VanGun\app\build\intermediates\pre-dexed\debug\classes_0ad108932b9aea27b03405c693fce80267c5081d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-annotations\2.2.2\285cb9c666f0f0f3dd8a1be04e1f457eb7b15113\jackson-annotations-2.2.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="285cb9c666f0f0f3dd8a1be04e1f457eb7b15113">
+        <dex dex="D:\pro\VanGun\app\build\intermediates\pre-dexed\debug\jackson-annotations-2.2.2_903645a4f948a9e43ed0fa7782792642e9812c08.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\4b9e9461debb51623e433f90bb8bd643c0effcc8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ed16ff19f0a9515604a0f08104ca0317b82e29e3">
+        <dex dex="D:\pro\VanGun\app\build\intermediates\pre-dexed\debug\classes_266a6fa484b450e1106cc623ec7b339e068841ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\8b36f9dde5f7fba6534a7952d25029b8b73d41aa\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="24536a7b97926a9c155c88425da6875adeb11b51">
+        <dex dex="D:\pro\VanGun\app\build\intermediates\pre-dexed\debug\classes_a4ebac0fe80a0b69231cee509635832ec68e4ff0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\f44b24650ff3c8a08dcf63f9424937522d00daa1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="70ddab48594608953b20164b82f1f890a9a8174a">
+        <dex dex="D:\pro\VanGun\app\build\intermediates\pre-dexed\debug\classes_93f6271bdb2671f0e2868e0bca49defc26696fec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\e14fb0e0eec6bbb6839a2b47d6e34dc2d6104fd0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="D:\pro\VanGun\app\build\intermediates\pre-dexed\debug\classes_e282bd7ee74ac2e64ca2d91e0034c908f3829014.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\94738b4a4a57a80fb120160e0404eaa178a800c9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3a1bac2cc31df44dbf1f9bbf2c675319503c9271">
+        <dex dex="D:\pro\VanGun\app\build\intermediates\pre-dexed\debug\classes_9b4f6c65fb2c232dfe5bd75d56935be524893027.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\3b460c74e3351371f2055a55da6f3b9584745e7b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cc178928721f3222b3b06bdfbd9497378ccb9792">
+        <dex dex="D:\pro\VanGun\app\build\intermediates\pre-dexed\debug\classes_a40a07d863f9a9bff91abf678abf5f8865975237.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\9f771cc495145380ec2087a39b01b58e6dfa45e2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7da84426d876216ed4cdddd85e739be5ecabdd04">
+        <dex dex="D:\pro\VanGun\app\build\intermediates\pre-dexed\debug\classes_839bd279b10b96f41467726d6e244fd1680dc0dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\8b5b4bba94c28e00c3086f9936079be834de1b6e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6f65c144283b31b4b9a70e6e7aa4c4a1c897d4b8">
+        <dex dex="D:\pro\VanGun\app\build\intermediates\pre-dexed\debug\classes_00fad76546be83552784203e5992b6b51e761861.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\org.hamcrest\hamcrest-core\1.3\42a25dc3219429f0e5d060061f71acb49bf010a0\hamcrest-core-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="42a25dc3219429f0e5d060061f71acb49bf010a0">
+        <dex dex="D:\pro\VanGun\app\build\intermediates\pre-dexed\debug\hamcrest-core-1.3_5861875293229376e229c3b7ebe6264692a5cea4.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\pro\VanGun\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="D:\pro\VanGun\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_1cc286fdeed98772dcff84ba17f3866d66c0aa63\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\30cb2d07e63985e5f0fac45844cc423d1366bd02\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a890ee8445927649d9ed50f625a315d8758688be">
+        <dex dex="D:\pro\VanGun\app\build\intermediates\pre-dexed\debug\classes_b3afae6abc47bb25428402c86805159916820710.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\com.firebase\tubesock\0.0.11\d37cb67277928cf59344b4196af8d9cee1f1a27c\tubesock-0.0.11.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d37cb67277928cf59344b4196af8d9cee1f1a27c">
+        <dex dex="D:\pro\VanGun\app\build\intermediates\pre-dexed\debug\tubesock-0.0.11_05c7d488d7d62ad9a299ec0b814d57cdb9874347.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-databind\2.2.2\3c8f6018eaa72d43b261181e801e6f8676c16ef6\jackson-databind-2.2.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3c8f6018eaa72d43b261181e801e6f8676c16ef6">
+        <dex dex="D:\pro\VanGun\app\build\intermediates\pre-dexed\debug\jackson-databind-2.2.2_c31dca2b10c05c63b85512fbc49abbb7b267893f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\3f3287d60012f313b2f9096c75b03ecdb342cf45\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="D:\pro\VanGun\app\build\intermediates\pre-dexed\debug\classes_690b37f89f23d188aedbe68815b3e0bd25493056.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\07105764f37f24b93a8c05022e4162e6b42f7d12\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="42df48c7305b08b14fa0e84561091b0c24d70d26">
+        <dex dex="D:\pro\VanGun\app\build\intermediates\pre-dexed\debug\classes_65ae57ec971269fa95eba6cef0d6d3c759e6a2b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\62b034a8b7c2fe722e60d6f5e4d9e2cdefd62897\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="905f3e63973d47fedf2d945fa31d8c0f0c98816e">
+        <dex dex="D:\pro\VanGun\app\build\intermediates\pre-dexed\debug\classes_cd8eb4c759a8bbea8229ceaf51d5efe8b4d194c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\0e4726bdc723e95fc312f04816a138ee642119e0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4431efe5d0f67fab36a698dde725946b33a6bf4a">
+        <dex dex="D:\pro\VanGun\app\build\intermediates\pre-dexed\debug\classes_69d7982696e7b28527e39f6d0aeb4234e89af03a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\com.firebase\firebase-client-jvm\2.3.1\4d53b7d6983247af02b8fe7e4228fff555a5e828\firebase-client-jvm-2.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4d53b7d6983247af02b8fe7e4228fff555a5e828">
+        <dex dex="D:\pro\VanGun\app\build\intermediates\pre-dexed\debug\firebase-client-jvm-2.3.1_9099cb678e2da8cbea9400ebd9cc9ba499629ce5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\junit\junit\4.12\2973d150c0dc1fefe998f834810d68f278ea58ec\junit-4.12.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2973d150c0dc1fefe998f834810d68f278ea58ec">
+        <dex dex="D:\pro\VanGun\app\build\intermediates\pre-dexed\debug\junit-4.12_933bc758c6587ce6d05f58c444f41c3cf62ae0ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\org.hamcrest\hamcrest-integration\1.3\5de0c73fef18917cd85d0ab70bb23818685e4dfd\hamcrest-integration-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5de0c73fef18917cd85d0ab70bb23818685e4dfd">
+        <dex dex="D:\pro\VanGun\app\build\intermediates\pre-dexed\debug\hamcrest-integration-1.3_ef9693e7bb02cdcc880580347637b1126fc21077.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\07849c2064f89d0d6aeee26ce214556c6a45e097\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ef5c5c2afbd174d55cf1cfcac7d0346cbc4c1322">
+        <dex dex="D:\pro\VanGun\app\build\intermediates\pre-dexed\debug\classes_12e6dcc0dcd710e7f75caf4890ab48bc2d03c74e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-annotations\2.2.2\285cb9c666f0f0f3dd8a1be04e1f457eb7b15113\jackson-annotations-2.2.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="285cb9c666f0f0f3dd8a1be04e1f457eb7b15113">
+        <dex dex="D:\pro\VanGun\app\build\intermediates\pre-dexed\debug\jackson-annotations-2.2.2_903645a4f948a9e43ed0fa7782792642e9812c08.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\6f0968175ba266ac99f3d8873c38f16e902357a4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d115b0e9e1501135fe91254ba884fcbd83d374c0">
+        <dex dex="D:\pro\VanGun\app\build\intermediates\pre-dexed\debug\classes_7b75b2a4ef579125710b4675fd8a93e50ac71d88.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\e14fb0e0eec6bbb6839a2b47d6e34dc2d6104fd0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="D:\pro\VanGun\app\build\intermediates\pre-dexed\debug\classes_e282bd7ee74ac2e64ca2d91e0034c908f3829014.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-alpha7\constraint-layout-solver-1.0.0-alpha7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="439eeb5ffd54cbd18db0a6aea471e8356f19fc36">
+        <dex dex="D:\pro\VanGun\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.0-alpha7_4def727076bec169802298fb194ea742eee3d86f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\3007cf67e5385dd48029d30b28b89a76be5712af\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="D:\pro\VanGun\app\build\intermediates\pre-dexed\debug\classes_96ee79586cc011d8ec37c33ad74f265037e9c651.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\adbc6439550b8c9faa2e14a124ec0521afda735f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e11799d8a26bfa5d48acafe012ee5545b9bf468">
+        <dex dex="D:\pro\VanGun\app\build\intermediates\pre-dexed\debug\classes_1fa68f726fbb0a6e643b4b91cea6a188af75a81a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\3f3287d60012f313b2f9096c75b03ecdb342cf45\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="D:\pro\VanGun\app\build\intermediates\pre-dexed\debug\classes_690b37f89f23d188aedbe68815b3e0bd25493056.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-databind\2.2.2\3c8f6018eaa72d43b261181e801e6f8676c16ef6\jackson-databind-2.2.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3c8f6018eaa72d43b261181e801e6f8676c16ef6">
+        <dex dex="D:\pro\VanGun\app\build\intermediates\pre-dexed\debug\jackson-databind-2.2.2_c31dca2b10c05c63b85512fbc49abbb7b267893f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="D:\pro\VanGun\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_a5a2825b34de3f3f7ae9d3d699d30b462eec82a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\d07b01c95ef8c5d0378d78b2b7bb1053db7196af\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="733964f04c339e425439545b1d172c23b53f8c13">
+        <dex dex="D:\pro\VanGun\app\build\intermediates\pre-dexed\debug\classes_0f03388dcbcf99d658bac2a3caf09aa0d3bc6a7e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\095f5803632defb1fb685888cbce75d208444658\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0dc8ab07eeceda5e99b305c8069765056b6e5c9d">
+        <dex dex="D:\pro\VanGun\app\build\intermediates\pre-dexed\debug\classes_4edfdad380177dbe4a18ceb15ca88f125f374b4b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\0f702f68142fb187cd35db472332a999b07ab4f7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="D:\pro\VanGun\app\build\intermediates\pre-dexed\debug\classes_8082bd4ad9c6b11f2247677c5aaa841c9c75900f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\com.squareup\javawriter\2.1.1\67ff45d9ae02e583d0f9b3432a5ebbe05c30c966\javawriter-2.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67ff45d9ae02e583d0f9b3432a5ebbe05c30c966">
+        <dex dex="D:\pro\VanGun\app\build\intermediates\pre-dexed\debug\javawriter-2.1.1_0e80439ce6338683df03d4cd1c7df2580025e03f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\ac3326455a283e1b2c5ebc5b8935ac66a6bf1546\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\pro\VanGun\app\build\intermediates\pre-dexed\debug\classes_1ceeffead9b6fcc858c06ec1208686834a29ba37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\2.0.1\516c03b21d50a644d538de0f0369c620989cd8f0\jsr305-2.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
+        <dex dex="D:\pro\VanGun\app\build\intermediates\pre-dexed\debug\jsr305-2.0.1_22abbae15ffe2f74a6d57b543386d64435b49b19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\junit\junit\4.12\2973d150c0dc1fefe998f834810d68f278ea58ec\junit-4.12.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2973d150c0dc1fefe998f834810d68f278ea58ec">
+        <dex dex="D:\pro\VanGun\app\build\intermediates\pre-dexed\debug\junit-4.12_933bc758c6587ce6d05f58c444f41c3cf62ae0ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\e18d2f05123e4d1266efa110353548623238bdeb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="D:\pro\VanGun\app\build\intermediates\pre-dexed\debug\classes_196affc1f73960f56b6ec3a84d072ed5f6c5054a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\b871c7b609157806c71890ba6434adeaf9d6e3e0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="D:\pro\VanGun\app\build\intermediates\pre-dexed\debug\classes_d9dd9ac642e2cbdb8a4e7d64d6ab2a72d99d0a14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\ac3326455a283e1b2c5ebc5b8935ac66a6bf1546\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\pro\VanGun\app\build\intermediates\pre-dexed\debug\classes_1ceeffead9b6fcc858c06ec1208686834a29ba37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\d07b01c95ef8c5d0378d78b2b7bb1053db7196af\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="733964f04c339e425439545b1d172c23b53f8c13">
+        <dex dex="D:\pro\VanGun\app\build\intermediates\pre-dexed\debug\classes_0f03388dcbcf99d658bac2a3caf09aa0d3bc6a7e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\com.firebase\tubesock\0.0.11\d37cb67277928cf59344b4196af8d9cee1f1a27c\tubesock-0.0.11.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d37cb67277928cf59344b4196af8d9cee1f1a27c">
+        <dex dex="D:\pro\VanGun\app\build\intermediates\pre-dexed\debug\tubesock-0.0.11_05c7d488d7d62ad9a299ec0b814d57cdb9874347.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\org.hamcrest\hamcrest-integration\1.3\5de0c73fef18917cd85d0ab70bb23818685e4dfd\hamcrest-integration-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5de0c73fef18917cd85d0ab70bb23818685e4dfd">
+        <dex dex="D:\pro\VanGun\app\build\intermediates\pre-dexed\debug\hamcrest-integration-1.3_ef9693e7bb02cdcc880580347637b1126fc21077.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\com.firebase\firebase-client-android\2.3.1\be29b24233711c419ce935aa0a1b12ebc49d1c9a\firebase-client-android-2.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="be29b24233711c419ce935aa0a1b12ebc49d1c9a">
+        <dex dex="D:\pro\VanGun\app\build\intermediates\pre-dexed\debug\firebase-client-android-2.3.1_8a93b4e89da80d0d41eecfca64b13b09e8a122a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\8b5b4bba94c28e00c3086f9936079be834de1b6e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6f65c144283b31b4b9a70e6e7aa4c4a1c897d4b8">
+        <dex dex="D:\pro\VanGun\app\build\intermediates\pre-dexed\debug\classes_00fad76546be83552784203e5992b6b51e761861.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\0f702f68142fb187cd35db472332a999b07ab4f7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="D:\pro\VanGun\app\build\intermediates\pre-dexed\debug\classes_8082bd4ad9c6b11f2247677c5aaa841c9c75900f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\3e4075fd2bb4b28c8d8f3098e992e28955799346\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="541a2ad68dc68aa49795821f8280b7624e6a0c9b">
+        <dex dex="D:\pro\VanGun\app\build\intermediates\pre-dexed\debug\classes_c2724246b6a875e123bb6c64db00f7670d0d46f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\30cb2d07e63985e5f0fac45844cc423d1366bd02\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a890ee8445927649d9ed50f625a315d8758688be">
+        <dex dex="D:\pro\VanGun\app\build\intermediates\pre-dexed\debug\classes_b3afae6abc47bb25428402c86805159916820710.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\af9f5efb69569070a9de7720f85672183d86de3e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="796f9229948e907471c5595fbe94655ccf03ff73">
+        <dex dex="D:\pro\VanGun\app\build\intermediates\pre-dexed\debug\classes_cf8b3631ff92f195ac9912c581a4b3fdf4cc575a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\80c819c8535875263fb6d0327cb963d6b3e44f7f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="32a5a566ae197603d0bed3e6d1d275f6a771564e">
+        <dex dex="D:\pro\VanGun\app\build\intermediates\pre-dexed\debug\classes_7a653f5219d86f17de7b43b7cde791569fc7c7bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\79851cd8566f0a5fd426d900fbb3df87b6be00c8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="D:\pro\VanGun\app\build\intermediates\pre-dexed\debug\classes_092d4091dd3381b71698e701c6291cd0af7804ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\a9909eb09d8beac491db9a9d0b33d236e4628538\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1941832901fc4e7a93300b53762e9f65d7650b99">
+        <dex dex="D:\pro\VanGun\app\build\intermediates\pre-dexed\debug\classes_d0c44f32a1cc4ba80671eeebeafadf178afd488d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\javax.annotation\javax.annotation-api\1.2\479c1e06db31c432330183f5cae684163f186146\javax.annotation-api-1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="479c1e06db31c432330183f5cae684163f186146">
+        <dex dex="D:\pro\VanGun\app\build\intermediates\pre-dexed\debug\javax.annotation-api-1.2_f657e737e570ce9a54145aff164a51756cbf6eb6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\083fbfdf3198cf11e9673ec81f8da9d811aae11e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="D:\pro\VanGun\app\build\intermediates\pre-dexed\debug\classes_24bd605e86da5e345fbfc802c640617470ddd31c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\3392677ca21ec2a6a01789efddd6f0121b020c82\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e467a973b749c6390a5991c9a8edbde96fc10c9">
+        <dex dex="D:\pro\VanGun\app\build\intermediates\pre-dexed\debug\classes_0c2a1bb316b3589e7f9be4b9892d36cb4d5c29e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\477799205605b199929db08cb624cb5146f30cb8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f0f6913a208a126269aaa68004ed0329a832c5b">
+        <dex dex="D:\pro\VanGun\app\build\intermediates\pre-dexed\debug\classes_e36c53afe14f24ce33a4f4a4076ce2e4d0009d12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\9a26fe4f5949b354c8e09ea940341a14ef5b8e5a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea4b54dcbfe5ac05efb0a314105f07258118d3a7">
+        <dex dex="D:\pro\VanGun\app\build\intermediates\pre-dexed\debug\classes_5b43ebfeab271410509a81d895b4dd6ba6eaf16b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\org.hamcrest\hamcrest-library\1.3\4785a3c21320980282f9f33d0d1264a69040538f\hamcrest-library-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4785a3c21320980282f9f33d0d1264a69040538f">
+        <dex dex="D:\pro\VanGun\app\build\intermediates\pre-dexed\debug\hamcrest-library-1.3_204fb4449b7efeeab0a9ede313609d9693f09b38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\c9f14806e3f0a99ba532f2f878ee2dc2ef4dbe43\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="D:\pro\VanGun\app\build\intermediates\pre-dexed\debug\classes_bae744b15b3907b31ce8717196213a4e0faaeece.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="D:\pro\VanGun\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_a5a2825b34de3f3f7ae9d3d699d30b462eec82a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\1a530f1e1d007f7fe2ca654f6f0e7735cc8b5b3a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7a23185c9b1c100e7d1a32275017e4712e31c796">
+        <dex dex="D:\pro\VanGun\app\build\intermediates\pre-dexed\debug\classes_bcfc4a0106b028943b3572accaa8e43afb604b4a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\095f5803632defb1fb685888cbce75d208444658\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0dc8ab07eeceda5e99b305c8069765056b6e5c9d">
+        <dex dex="D:\pro\VanGun\app\build\intermediates\pre-dexed\debug\classes_4edfdad380177dbe4a18ceb15ca88f125f374b4b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\07105764f37f24b93a8c05022e4162e6b42f7d12\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="42df48c7305b08b14fa0e84561091b0c24d70d26">
+        <dex dex="D:\pro\VanGun\app\build\intermediates\pre-dexed\debug\classes_65ae57ec971269fa95eba6cef0d6d3c759e6a2b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\b871c7b609157806c71890ba6434adeaf9d6e3e0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="D:\pro\VanGun\app\build\intermediates\pre-dexed\debug\classes_d9dd9ac642e2cbdb8a4e7d64d6ab2a72d99d0a14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\e18d2f05123e4d1266efa110353548623238bdeb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="D:\pro\VanGun\app\build\intermediates\pre-dexed\debug\classes_196affc1f73960f56b6ec3a84d072ed5f6c5054a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\com.firebase\firebase-client-android\2.3.1\be29b24233711c419ce935aa0a1b12ebc49d1c9a\firebase-client-android-2.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="be29b24233711c419ce935aa0a1b12ebc49d1c9a">
+        <dex dex="D:\pro\VanGun\app\build\intermediates\pre-dexed\debug\firebase-client-android-2.3.1_8a93b4e89da80d0d41eecfca64b13b09e8a122a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\2.0.1\516c03b21d50a644d538de0f0369c620989cd8f0\jsr305-2.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
+        <dex dex="D:\pro\VanGun\app\build\intermediates\pre-dexed\debug\jsr305-2.0.1_22abbae15ffe2f74a6d57b543386d64435b49b19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\4b9e9461debb51623e433f90bb8bd643c0effcc8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ed16ff19f0a9515604a0f08104ca0317b82e29e3">
+        <dex dex="D:\pro\VanGun\app\build\intermediates\pre-dexed\debug\classes_266a6fa484b450e1106cc623ec7b339e068841ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="D:\pro\VanGun\app\build\intermediates\pre-dexed\debug\javax.inject-1_ed056cf491007105d54d8d8bd5fe559657696c95.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\1a530f1e1d007f7fe2ca654f6f0e7735cc8b5b3a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7a23185c9b1c100e7d1a32275017e4712e31c796">
+        <dex dex="D:\pro\VanGun\app\build\intermediates\pre-dexed\debug\classes_bcfc4a0106b028943b3572accaa8e43afb604b4a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\pro\VanGun\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="00bacfd0f9c98778cb4dc674a212f35a7c6044eb">
+        <dex dex="D:\pro\VanGun\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_fb9122e41fdf1fa1888315ceaa636a9d53d64fae\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\com.squareup\javawriter\2.1.1\67ff45d9ae02e583d0f9b3432a5ebbe05c30c966\javawriter-2.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67ff45d9ae02e583d0f9b3432a5ebbe05c30c966">
+        <dex dex="D:\pro\VanGun\app\build\intermediates\pre-dexed\debug\javawriter-2.1.1_0e80439ce6338683df03d4cd1c7df2580025e03f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\9a26fe4f5949b354c8e09ea940341a14ef5b8e5a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea4b54dcbfe5ac05efb0a314105f07258118d3a7">
+        <dex dex="D:\pro\VanGun\app\build\intermediates\pre-dexed\debug\classes_5b43ebfeab271410509a81d895b4dd6ba6eaf16b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.android\build-cache\3e4075fd2bb4b28c8d8f3098e992e28955799346\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="541a2ad68dc68aa49795821f8280b7624e6a0c9b">
+        <dex dex="D:\pro\VanGun\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c2724246b6a875e123bb6c64db00f7670d0d46f2\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\adbc6439550b8c9faa2e14a124ec0521afda735f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e11799d8a26bfa5d48acafe012ee5545b9bf468">
+        <dex dex="D:\pro\VanGun\app\build\intermediates\pre-dexed\debug\classes_1fa68f726fbb0a6e643b4b91cea6a188af75a81a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\javax.annotation\javax.annotation-api\1.2\479c1e06db31c432330183f5cae684163f186146\javax.annotation-api-1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="479c1e06db31c432330183f5cae684163f186146">
+        <dex dex="D:\pro\VanGun\app\build\intermediates\pre-dexed\debug\javax.annotation-api-1.2_f657e737e570ce9a54145aff164a51756cbf6eb6.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.android\build-cache\94738b4a4a57a80fb120160e0404eaa178a800c9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3a1bac2cc31df44dbf1f9bbf2c675319503c9271">
+        <dex dex="D:\pro\VanGun\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9b4f6c65fb2c232dfe5bd75d56935be524893027\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\org.hamcrest\hamcrest-core\1.3\42a25dc3219429f0e5d060061f71acb49bf010a0\hamcrest-core-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="42a25dc3219429f0e5d060061f71acb49bf010a0">
+        <dex dex="D:\pro\VanGun\app\build\intermediates\pre-dexed\debug\hamcrest-core-1.3_5861875293229376e229c3b7ebe6264692a5cea4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\f44b24650ff3c8a08dcf63f9424937522d00daa1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70ddab48594608953b20164b82f1f890a9a8174a">
+        <dex dex="D:\pro\VanGun\app\build\intermediates\pre-dexed\debug\classes_93f6271bdb2671f0e2868e0bca49defc26696fec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\af9f5efb69569070a9de7720f85672183d86de3e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="796f9229948e907471c5595fbe94655ccf03ff73">
+        <dex dex="D:\pro\VanGun\app\build\intermediates\pre-dexed\debug\classes_cf8b3631ff92f195ac9912c581a4b3fdf4cc575a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\79851cd8566f0a5fd426d900fbb3df87b6be00c8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="D:\pro\VanGun\app\build\intermediates\pre-dexed\debug\classes_092d4091dd3381b71698e701c6291cd0af7804ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\6f0968175ba266ac99f3d8873c38f16e902357a4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d115b0e9e1501135fe91254ba884fcbd83d374c0">
+        <dex dex="D:\pro\VanGun\app\build\intermediates\pre-dexed\debug\classes_7b75b2a4ef579125710b4675fd8a93e50ac71d88.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\9f771cc495145380ec2087a39b01b58e6dfa45e2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7da84426d876216ed4cdddd85e739be5ecabdd04">
+        <dex dex="D:\pro\VanGun\app\build\intermediates\pre-dexed\debug\classes_839bd279b10b96f41467726d6e244fd1680dc0dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\62b034a8b7c2fe722e60d6f5e4d9e2cdefd62897\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="905f3e63973d47fedf2d945fa31d8c0f0c98816e">
+        <dex dex="D:\pro\VanGun\app\build\intermediates\pre-dexed\debug\classes_cd8eb4c759a8bbea8229ceaf51d5efe8b4d194c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\0e4726bdc723e95fc312f04816a138ee642119e0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4431efe5d0f67fab36a698dde725946b33a6bf4a">
+        <dex dex="D:\pro\VanGun\app\build\intermediates\pre-dexed\debug\classes_69d7982696e7b28527e39f6d0aeb4234e89af03a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\3a1b6042553dcac7369d0dcefbff0f8098da0df8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="D:\pro\VanGun\app\build\intermediates\pre-dexed\debug\classes_0ad108932b9aea27b03405c693fce80267c5081d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\8b36f9dde5f7fba6534a7952d25029b8b73d41aa\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="24536a7b97926a9c155c88425da6875adeb11b51">
+        <dex dex="D:\pro\VanGun\app\build\intermediates\pre-dexed\debug\classes_a4ebac0fe80a0b69231cee509635832ec68e4ff0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.2.2\d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b\jackson-core-2.2.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b">
+        <dex dex="D:\pro\VanGun\app\build\intermediates\pre-dexed\debug\jackson-core-2.2.2_9b034db73581278168c216b1e24693bb00a6600f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\09c6480821e9f3c34836e08ba0f1fb68dbd20e7f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="D:\pro\VanGun\app\build\intermediates\pre-dexed\debug\classes_d1d2938fb3b5c1f4eab743dbba3b5a14a736d7dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\80c819c8535875263fb6d0327cb963d6b3e44f7f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="32a5a566ae197603d0bed3e6d1d275f6a771564e">
+        <dex dex="D:\pro\VanGun\app\build\intermediates\pre-dexed\debug\classes_7a653f5219d86f17de7b43b7cde791569fc7c7bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\a9909eb09d8beac491db9a9d0b33d236e4628538\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1941832901fc4e7a93300b53762e9f65d7650b99">
+        <dex dex="D:\pro\VanGun\app\build\intermediates\pre-dexed\debug\classes_d0c44f32a1cc4ba80671eeebeafadf178afd488d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\org.hamcrest\hamcrest-library\1.3\4785a3c21320980282f9f33d0d1264a69040538f\hamcrest-library-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4785a3c21320980282f9f33d0d1264a69040538f">
+        <dex dex="D:\pro\VanGun\app\build\intermediates\pre-dexed\debug\hamcrest-library-1.3_204fb4449b7efeeab0a9ede313609d9693f09b38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\3b460c74e3351371f2055a55da6f3b9584745e7b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cc178928721f3222b3b06bdfbd9497378ccb9792">
+        <dex dex="D:\pro\VanGun\app\build\intermediates\pre-dexed\debug\classes_a40a07d863f9a9bff91abf678abf5f8865975237.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\477799205605b199929db08cb624cb5146f30cb8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5f0f6913a208a126269aaa68004ed0329a832c5b">
+        <dex dex="D:\pro\VanGun\app\build\intermediates\pre-dexed\debug\classes_e36c53afe14f24ce33a4f4a4076ce2e4d0009d12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\fedb77e32311499f9a92314565e63d4290128523\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4ef8ab5fee042023018249474bc93bd4b2b9c17e">
+        <dex dex="D:\pro\VanGun\app\build\intermediates\pre-dexed\debug\classes_17134d871fe35c98669669cb41699203b3d6baf8.jar" />
+    </item>
+
+</items>
